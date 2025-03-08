@@ -3,7 +3,7 @@
 ✨ _This is no ordinary repository — it's where a Computer Science enthusiast explores the realms of code._ ✨  
 
 ### Here's a little about me:  
-- 🔭 I’m currently diving into the world of C, C++, JavaScript, Html, CSS and Python, PHP, MySQL.  
+- 🔭 I’m currently diving into the world of C, C++, JavaScript, Html, CSS, Python, PHP, MySQL.  
 - 🌱 Always eager to learn and experiment with new technologies.  
 - 👯 I’m looking to collaborate on projects that involve problem-solving and innovation.  
 - 🤔 I enjoy brainstorming ideas and tackling challenges head-on.  
